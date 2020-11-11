@@ -1,0 +1,16 @@
+{
+    "java.home": "C:\\Users\\acfoa\\AppData\\Local\\Programs\\AdoptOpenJDK\\",
+    "java.help.firstView": "gettingStarted",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "java.semanticHighlighting.enabled": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+}
