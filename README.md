@@ -5,3 +5,4 @@ Macのアプリの設定
 1. [[小ネタ][Mac] 同一アプリケーションでウィンドウを切り替えるショートカット
 ](https://dev.classmethod.jp/articles/mac-next-window-shortcut/)
 1. [iOS Simulator(iPhone Simulator)をMacにインストールする方法](https://qiita.com/yoshitake_1201/items/58f6bd5ff48dfe96be37)
+Xcodeの設定は、LocationのCommand Line ToolsにあるXcodeを選択すると良い
