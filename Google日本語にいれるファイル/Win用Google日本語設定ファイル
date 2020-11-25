@@ -98,7 +98,7 @@ Conversion	Hiragana	InputModeHiragana
 Conversion	Home	SegmentFocusFirst
 Conversion	Katakana	InputModeFullKatakana
 Conversion	Left	SegmentFocusLeft
-Conversion	Muhenkan	InputModeHalfAlphanumeric
+Conversion	Muhenkan	IMEOff
 Conversion	PageDown	ConvertNextPage
 Conversion	PageUp	ConvertPrevPage
 Conversion	Right	SegmentFocusRight
@@ -129,7 +129,7 @@ Precomposition	Hankaku/Zenkaku	IMEOff
 Precomposition	Hiragana	InputModeHiragana
 Precomposition	Henkan	InputModeHiragana
 Precomposition	Katakana	InputModeFullKatakana
-Precomposition	Muhenkan	InputModeHalfAlphanumeric
+Precomposition	Muhenkan	IMEOff
 Precomposition	Shift Muhenkan	ToggleAlphanumericMode
 Precomposition	Shift Space	InsertAlternateSpace
 Precomposition	Space	InsertSpace
