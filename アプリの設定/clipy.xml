@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<folders>
+	<folder>
+		<title>homebrewの設定</title>
+		<snippets>
+			<snippet>
+				<title>1つ目</title>
+				<content>echo &apos;eval $(/opt/homebrew/bin/brew shellenv)&apos; &gt;&gt; /Users/yuma/.zprofile</content>
+			</snippet>
+			<snippet>
+				<title>2つ目</title>
+				<content>eval $(/opt/homebrew/bin/brew shellenv)</content>
+			</snippet>
+		</snippets>
+	</folder>
+</folders>
