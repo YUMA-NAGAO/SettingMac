@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>638327833.02793002</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>JustDisplay</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>SetClipboardToText</string>
+						<key>Text</key>
+						<string>[%ChromeTitle%](%ChromeURL%)</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>638327865.95083404</real>
+				<key>ModificationDate</key>
+				<real>638329395.44751298</real>
+				<key>Name</key>
+				<string>MakeLink(MarkDown)Chrome</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>46</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4096</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>D8C91F35-67B0-4E2A-ADBF-2077CB6B52B9</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Global Macro Group</string>
+		<key>ToggleMacroUID</key>
+		<string>CA32DEA2-A69C-4D5A-9C1C-B5C70C75B60B</string>
+		<key>UID</key>
+		<string>F2749728-D2A0-4DD4-8BD7-34BF1C7C96A9</string>
+	</dict>
+</array>
+</plist>
